@@ -2,37 +2,51 @@
 
 Castle War is a 2D real-time strategy game that allows two players to go head-to-head in a battle to destroy each other's walls. The game is built using the Pygame library and offers various units like swordsmen, workers, and archers to aid in your battle.
 
-![Game Screenshot](./screenshot.png) <!-- You can replace this with an actual screenshot -->
+![Game Screenshot](./screenshot.png)
 
 ## Table of Contents
 
-1. [Features](#features)
-2. [Technologies Used](#technologies-used)
-3. [Getting Started](#getting-started)
-4. [Gameplay](#gameplay)
+1. [Introduction](#introduction)
+2. [Features](#features)
+3. [Technologies Used](#technologies-used)
+4. [Getting Started](#getting-started)
+5. [Gameplay](#gameplay)
+6. [Challenges and Improvements](#challenges-and-improvements)
+7. [Contributing](#contributing)
+8. [License](#license)
 
+## Introduction
+
+Castle War is a 2D game created using the Pygame library. The game is played in real-time by two players sharing the same keyboard and screen, and the goal is to destroy the enemy wall using different troops such as swordsmen, workers, and archers. Each player has a wall that must be protected, a tower that attacks enemy units, a barracks that can train or release troops, and a mine that generates new resources.
+
+This repository contains the source code and project report for Castle War.
 
 ## Features
 
-- **Real-Time Gameplay**: Two players can play simultaneously, sharing the same keyboard and screen.
-- **Diverse Units**: Deploy swordsmen, workers, and archers to attack the enemy.
-- **Resource Management**: Manage your mine to generate resources for deploying troops.
-- **Defensive Structures**: Each player has a wall, a tower, and barracks to defend and manage.
+- Two-player real-time strategy game
+- Multiple types of units and buildings
+- Resource management system
+- Save and load game functionality
+- Pause and restart game functionality
 
 ## Technologies Used
 
-- Pygame
-- Python
+- Python 3
+- Pygame library
 
 ## Getting Started
 
-### Prerequisites
+To run Castle War on your local machine, follow these steps:
 
-- Python 3.x
-- Pygame
+1. Clone this repository: `git clone https://github.com/your-username/castle-war.git`
+2. Install the Pygame library: `pip install pygame`
+3. Navigate to the project directory: `cd castle-war`
+4. Run the game: `python main.py`
 
-### Installation
+## Gameplay
 
-1. Clone this repository to your local machine.
-   ```bash
-   git clone https://github.com/yourusername/Castle-War.git
+The game is played by two players sharing the same keyboard and screen. Each player has a wall that must be protected, a tower that attacks enemy units, a barracks that can train or release troops, and a mine that generates new resources. The goal is to destroy the enemy wall using different troops such as swordsmen, workers, and archers.
+
+## Challenges and Improvements
+
+The project report provides a comprehensive overview of the design structures, solutions, and implementations of the game, including details on the main challenges faced during development, testing and tools used,
