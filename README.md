@@ -38,8 +38,9 @@ To run Castle War on your local machine, follow these steps:
 
 1. Clone this repository: `git clone https://github.com/RiccardoRiccio/Castle-War.git`
 2. Install the Pygame library: `pip install pygame`
-3. Unzip the sprite folder
-4. Run the game: `python castle_war.py`
+3. Unzip the sprites folder
+4. Inside the unzipped sprites folder there is another sprites folder, put that into the main folder (the one with codes, report, mp3 files etc)
+5. Run the game: `python castle_war.py`
 
 ## Gameplay
 
