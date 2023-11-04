@@ -1,5 +1,12 @@
 # Castle War
 
+## Demo
+
+Watch the Castle War gameplay demo below:
+
+[![Castle War Gameplay Demo](http://img.youtube.com/vi/Wp5Vq0ReFhs/0.jpg)](http://www.youtube.com/watch?v=Wp5Vq0ReFhs "Castle War Gameplay Demo")
+
+
 ## Table of Contents
 
 1. [Introduction](#introduction)
